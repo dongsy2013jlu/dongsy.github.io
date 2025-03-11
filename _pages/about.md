@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shuzhi Sam Ge, Professor, FIEEE, FIFAC, Department of Electrical and Computer Engineering National University of Singapore "
+title: "Shuzhi Sam Ge, Professor, FIEEE, FIFAC, Department of Electrical and Computer Engineering, National University of Singapore "
 author_profile: true
 redirect_from: 
   - /about/
