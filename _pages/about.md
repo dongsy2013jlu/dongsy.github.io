@@ -1,6 +1,10 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Shuzhi Sam Ge, Professor, FIEEE, FIFAC
+Department of Electrical and Computer Engineering
+National University of Singapore 
+![图片](https://github.com/user-attachments/assets/cb76bcee-6903-4f93-a744-fbacf6e72d9f)
+"
 author_profile: true
 redirect_from: 
   - /about/
