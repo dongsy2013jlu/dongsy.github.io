@@ -2,9 +2,7 @@
 permalink: /
 title: "Shuzhi Sam Ge, Professor, FIEEE, FIFAC
 Department of Electrical and Computer Engineering
-National University of Singapore 
-![图片](https://github.com/user-attachments/assets/cb76bcee-6903-4f93-a744-fbacf6e72d9f)
-"
+National University of Singapore "
 author_profile: true
 redirect_from: 
   - /about/
